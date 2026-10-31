@@ -6,6 +6,9 @@ Display Mode (Showcase Market): A fixed-price, limited-supply showcase. Admins c
 Key Features:
 
 Interactive NPC Auctioneer: Spawn a custom, invulnerable Cleric NPC (/da create) anywhere in your lobby or spawn. Players right-click the auctioneer to open the active auction or display GUI.
+
 Vault Economy Support: Fully hooks into standard server economy providers via Vault for reliable balance tracking, instant deductions, and safe bid refunds.
+
 Anti-Exploit Protection: Built-in safeguards automatically intercept commands like /pay, /money send, and direct player interactions while an auction is running, preventing mid-event coin transfers and unfair player collusion.
+
 Admin Management: Simple in-game commands allow admins to configure items directly from their hand (/da item1, /da bid), manage stock
