@@ -1,0 +1,16 @@
+name: DarkAuction
+version: 1.0.0
+main: org.ssnify.darkauction.DarkAuction
+api-version: '26.1'
+author: ssnify
+description: Dark Auction system
+depend: [Vault]
+
+commands:
+  darkauction:
+    description: Manage dark auctions
+    usage: /darkauction <create|start|stop|item1|item2|item3|list>
+    aliases: [da]
+  coins:
+    description: Manage coins
+    usage: /coins <give|set|take> <player> <amount>
