@@ -2,6 +2,7 @@
 The plugin provides two distinct auction formats:
 
 Live Bidding Auctions: A real-time competitive bidding war. Admins queue up to three unique items, and players bid against each other in an interactive GUI with quick-bid increment buttons (+100k, +500k, +1M, +5M coins). Each round features a 30-second countdown timer that dynamically extends when last-second bids arrive. When someone is outbid, their coins are refunded automatically in real time. Winning items are placed directly into the victor's inventory. Live auctions can be triggered manually by staff or set to run automatically every Saturday evening.
+
 Display Mode (Showcase Market): A fixed-price, limited-supply showcase. Admins can display up to three items with set coin prices, individual or global stock counts, and per-player purchase limits (1 or 2 items max). Once an item's stock runs out, the GUI automatically marks it as "SOLD OUT" to prevent over-purchasing and keep rare items scarce.
 Key Features:
 
